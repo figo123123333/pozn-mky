@@ -2,6 +2,7 @@
 #git commit -m "nwm"
 #git push
 
+
 proměná = input("co je dnes za den? ")
 
 #proměná = typ(proměná)
@@ -15,5 +16,9 @@ proměná = input("co je dnes za den? ")
 print("co chete vypsat", proměná)
 # když chceme vypsat text musí být v ""
 # pro odělení podmínky používáme , nebo +
+
+# git clone
+# cd
+# git pull
 
 # Filip Lukáš
