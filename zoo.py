@@ -21,4 +21,6 @@ print("co chete vypsat", proměná)
 # cd
 # git pull
 
+# for i it range(7)
+
 # Filip Lukáš
